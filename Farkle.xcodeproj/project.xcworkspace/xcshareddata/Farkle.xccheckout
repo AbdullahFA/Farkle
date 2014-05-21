@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>76F19A6B-D873-4E3C-BECB-7C1D445ADF40</string>
+	<string>21616723-0699-44A4-88C9-D000E5870B75</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Farkle</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>C3B3A5B3-255F-442F-A840-9F1FA2823DAC</key>
-		<string>http://github.com/ddixonjr/Farkle.git</string>
+		<key>86095AA6-3B86-4581-9571-AAE783C1C255</key>
+		<string>https://github.com/AbdullahFA/Farkle.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Farkle.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C3B3A5B3-255F-442F-A840-9F1FA2823DAC</key>
+		<key>86095AA6-3B86-4581-9571-AAE783C1C255</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://github.com/ddixonjr/Farkle.git</string>
+	<string>https://github.com/AbdullahFA/Farkle.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C3B3A5B3-255F-442F-A840-9F1FA2823DAC</string>
+	<string>86095AA6-3B86-4581-9571-AAE783C1C255</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>C3B3A5B3-255F-442F-A840-9F1FA2823DAC</string>
+			<string>86095AA6-3B86-4581-9571-AAE783C1C255</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Farkle</string>
 		</dict>

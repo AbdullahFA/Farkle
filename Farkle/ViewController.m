@@ -33,18 +33,14 @@
     self.myDieLabel5.delegate = self;
     self.myDieLabel6.delegate = self;
     self.dice = [[NSMutableArray alloc] init];
-
 }
 
 
 -(BOOL)loseTurnPoints
 {
-
     if([self tallyScore] > 0)
 
 {
-
-
     return NO;
 }
     return YES;
@@ -53,12 +49,9 @@
 -(NSInteger)tallyScore
 
      {
-
          // CALL Scoring Method
          return 0;
      }
-
-
 
 - (IBAction)onRollButtonPressed:(id)sender
 {
